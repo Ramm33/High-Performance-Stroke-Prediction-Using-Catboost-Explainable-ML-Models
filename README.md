@@ -1,6 +1,6 @@
 # High-Performance-Stroke-Prediction-Using-Catboost-Explainable-ML-Models
 
-# CLICK DEMO VIDEO- https://drive.google.com/file/d/1rP_TAbFNqEdFeP5JZhAdthJsnHqhZb2j/view?usp=drive_link
+# CLICK DEMO VIDEO - https://drive.google.com/file/d/1FWztVbc6CFUk4Pe24zGdU3YjXSX2J2kW/view?usp=drive_link
 
 Developed an advanced healthcare-based machine learning system for early stroke prediction and risk assessment using ensemble learning and Explainable AI techniques. The project focuses on improving prediction accuracy, handling imbalanced medical datasets, and providing transparent model interpretations for better clinical decision-making.
 
